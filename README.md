@@ -1,1 +1,1 @@
-This is just small page, which is made with Flexbox.
+This is just a small page, which is made with Flexbox.
