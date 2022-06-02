@@ -1,0 +1,1 @@
+This is just small page, which is made with Flexbox.
